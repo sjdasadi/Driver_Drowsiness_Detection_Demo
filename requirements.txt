@@ -1,0 +1,8 @@
+# Requirements for Driver_Drowsiness_Detection_DEMO.py
+# Compatible with the new MediaPipe Tasks API (mediapipe >= 0.10.30 / Python 3.13)
+
+opencv-python>=4.8.0
+mediapipe>=0.10.30
+numpy>=1.24.0
+pandas>=2.0.0
+torch>=2.1.0
