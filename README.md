@@ -113,14 +113,6 @@ Controls while running:
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](./LICENSE) — feel free to use, modify, and
-distribute it, provided the original copyright notice is kept. Replace this section (and the
-`LICENSE` file) if you'd prefer a different license for your repository.
-
----
-
 
 ---
 
@@ -254,13 +246,6 @@ python Drowsiness_Detection_DEMO.py
 | `SPACE` | ذخیره‌ی baseline / شروع نظارت              |
 | `ESC`   | توقف نظارت و خروج از برنامه                |
 
----
-
-## 📄 لایسنس
-
-این پروژه تحت [مجوز MIT](./LICENSE) منتشر شده — می‌تونی آزادانه ازش استفاده، تغییر و
-توزیعش کنی، به شرطی که یادداشت کپی‌رایت اصلی حفظ بشه. اگه لایسنس دیگه‌ای برای مخزن خودت
-می‌خوای، این بخش (و فایل `LICENSE`) رو جایگزین کن.
 
 ---
 
