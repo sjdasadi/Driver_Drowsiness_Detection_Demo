@@ -3,10 +3,6 @@
 A real-time driver drowsiness monitor that uses a webcam, MediaPipe face landmarks, and a
 Transformer neural network to detect signs of fatigue (prolonged eye closure and yawning)
 and raise an alert before it becomes dangerous.
-
-> ⚠️ **Disclaimer**: This is a research/demo prototype, not a certified safety device.
-> Do not rely on it as your only safeguard against drowsy driving.
-
 ---
 
 ## 📊 Pipeline Overview
@@ -134,8 +130,6 @@ distribute it, provided the original copyright notice is kept. Replace this sect
 کلیدی چهره (landmarks) از MediaPipe، و یک شبکه‌ی عصبی ترنسفورمر، نشانه‌های خستگی (بسته‌شدن
 طولانی‌مدت چشم و خمیازه) را تشخیص می‌ده و قبل از خطرناک شدن وضعیت، هشدار می‌ده.
 
-> ⚠️ **توجه**: این یک نمونه‌ی تحقیقاتی/دمو است، نه یک دستگاه ایمنی تأیید‌شده.
-> لطفاً فقط به این ابزار به‌عنوان تنها راه پیشگیری از رانندگی در حالت خواب‌آلودگی تکیه نکنید.
 
 ---
 
