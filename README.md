@@ -102,7 +102,7 @@ pip install -r requirements.txt
 # 4. Make sure final_best_model_fold_5.pth is in the project folder
 
 # 5. Run the demo
-python Drowsiness_Detection_DEMO.py
+python Driver_Drowsiness_Detection_Demo.py
 ```
 
 Controls while running:
@@ -236,7 +236,7 @@ pip install -r requirements.txt
 # ۴. مطمئن شو فایل final_best_model_fold_5.pth کنار پروژه است
 
 # ۵. اجرای برنامه
-python Drowsiness_Detection_DEMO.py
+python Driver_Drowsiness_Detection_Demo.py
 ```
 
 کلیدهای میانبر هنگام اجرا:
