@@ -5,7 +5,7 @@ Transformer neural network to detect signs of fatigue (prolonged eye closure and
 and raise an alert before it becomes dangerous.
 ---
 
-## 📊 Pipeline Overview
+## Pipeline Overview
 
 ```mermaid
 flowchart TD
@@ -50,7 +50,7 @@ flowchart TD
 
 ---
 
-## ▶️ How the Demo Works
+##  How the Demo Works
 
 1. Run the script — it opens your default webcam.
 2. Sit normally, facing the camera, with your eyes open and mouth closed.
@@ -67,7 +67,7 @@ flowchart TD
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 - Python 3.10+ (tested on 3.13)
 - A webcam
@@ -84,7 +84,7 @@ flowchart TD
 
 ---
 
-## 🚀 Installation & Usage
+##  Installation & Usage
 
 ```bash
 # 1. Clone the repository
@@ -125,7 +125,7 @@ Controls while running:
 
 ---
 
-## 📊 نمای کلی پایپلاین
+##  نمای کلی پایپلاین
 
 ```mermaid
 flowchart TD
@@ -179,7 +179,7 @@ flowchart TD
 
 ---
 
-## ▶️ نحوه‌ی کار این دمو
+## نحوه‌ی کار این دمو
 
 ۱. اسکریپت رو اجرا کن — وب‌کم پیش‌فرض سیستم باز می‌شه.
 
@@ -202,7 +202,7 @@ flowchart TD
 
 ---
 
-## 📦 نیازمندی‌ها
+## نیازمندی‌ها
 
 - پایتون ۳.۱۰ به بالا (روی نسخه‌ی ۳.۱۳ تست شده)
 - یک وب‌کم
@@ -218,7 +218,7 @@ flowchart TD
 
 ---
 
-## 🚀 نصب و اجرا
+## نصب و اجرا
 
 ```bash
 # ۱. کلون کردن مخزن
